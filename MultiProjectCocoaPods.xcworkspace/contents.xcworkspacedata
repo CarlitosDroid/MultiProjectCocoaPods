@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:ModuleFeatureA/ModuleFeatureA.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:README.md">
+   </FileRef>
+   <FileRef
+      location = "group:swiftgen.yml">
+   </FileRef>
+   <FileRef
+      location = "group:ModuleData/ModuleData.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ModuleDomain/ModuleDomain.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ModuleCore/ModuleCore.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:MultiProjectCocoaPods.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>

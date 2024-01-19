@@ -1,0 +1,12 @@
+input_dir: ModuleCore/ModuleCore/
+output_dir: ModuleCore/ModuleCore/Generated/
+      
+xcassets:
+  inputs:
+    - Resources/Assets/Images.xcassets
+    - Resources/Assets/Colors.xcassets
+  outputs:
+    - templateName: swift5
+      output: Assets.swift
+      params:
+        publicAccess: true
